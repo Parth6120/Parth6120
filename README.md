@@ -19,11 +19,9 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I am currently preparing for Data Scientist roles and actively building out my production-ready portfolio.
-- 🌱 My technical focus is on **architecting modular ML systems**, time-series forecasting, and building automated MLOps pipelines.
-- 🎓 I hold a B.Tech in Electronics & Communications Engineering and a Post-Graduate Certificate in AI & Software Development.
-- 🌍 Based in Greater Sudbury, ON, Canada — Open to relocate for Onsite, Hybrid, or Remote roles (Entry/Mid-level).
-- ⚡ **Fun Fact:** I love integrating complex backend logic with clean FastAPI and Streamlit frontends so stakeholders can actually interact with the models I build.
+<p align="justify">
+Hi there, I'm Parth. I am a Data Scientist, Machine Learning Engineer, and AI Engineer who thrives on bridging the gap between core data science and production-ready software engineering. I have a strong foundation in transforming raw, complex datasets into actionable business intelligence through predictive modeling, natural language processing, and advanced generative AI workflows. For me, the work doesn't stop at training a model; I am deeply passionate about architecting modular ML systems, developing Retrieval-Augmented Generation (RAG) applications, and building end-to-end automated MLOps pipelines. I love taking advanced statistical techniques and engineering secure, high-performance backends, then bringing those insights to life by deploying scalable analytical tools via FastAPI and Streamlit. I am currently based in Greater Sudbury and am fully open to relocating for an exciting onsite or hybrid opportunity.
+</p>
 
 ---
 
