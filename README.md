@@ -74,5 +74,5 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Parth6120&show_icons=true&theme=transparent&hide_border=true&title_color=3776AB&icon_color=3776AB&text_color=ffffff" alt="Parth's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Parth6120&theme=transparent&hide_border=true&title_color=3776AB&text_color=ffffff&icon_color=3776AB" alt="Parth's GitHub Streak" />
 </p>
