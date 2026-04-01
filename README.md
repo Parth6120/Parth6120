@@ -19,7 +19,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I am currently preparing for my next big role as a **Data Scientist** and building out my portfolio.
+- 🔭 I am currently preparing for Data Scientist roles and actively building out my production-ready portfolio.
 - 🌱 My technical focus is on **architecting modular ML systems**, time-series forecasting, and building automated MLOps pipelines.
 - 🎓 I hold a B.Tech in Electronics & Communications Engineering and a Post-Graduate Certificate in AI & Software Development.
 - 🌍 Based in Greater Sudbury, ON, Canada — Open to relocate for Onsite, Hybrid, or Remote roles (Entry/Mid-level).
@@ -27,47 +27,88 @@
 
 ---
 
-### 🛠️ Technical Arsenal
+<h3 align="center">🛠️ Technical Arsenal</h3>
 
-**Machine Learning & AI**
-<br>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white" />
-<img src="https://img.shields.io/badge/NLP-Transformers-blue?style=flat-square" />
+<p align="center">
+  <strong>🧠 Artificial Intelligence & Machine Learning</strong><br>
+  <img src="https://img.shields.io/badge/Machine_Learning-FF9900?style=flat-square" />
+  <img src="https://img.shields.io/badge/Deep_Learning-E34F26?style=flat-square" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-150458?style=flat-square" />
+  <img src="https://img.shields.io/badge/Machine_Vision-009688?style=flat-square" />
+</p>
 
-**Engineering & MLOps**
-<br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white" />
+<p align="center">
+  <strong>🤖 Generative AI, NLP & Agents</strong><br>
+  <img src="https://img.shields.io/badge/Agentic_AI-09A3D5?style=flat-square" />
+  <img src="https://img.shields.io/badge/RAG-0078D7?style=flat-square" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Crew_AI-F2C811?style=flat-square" />
+  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-Transformers-blue?style=flat-square" />
+</p>
 
-**Data Analysis & Databases**
-<br>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
+<p align="center">
+  <strong>⚙️ Data Engineering, Cloud & MLOps</strong><br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI_Workflows-316192?style=flat-square" />
+  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white" />
+</p>
+
+<p align="center">
+  <strong>📊 Data Science & Analytics</strong><br>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/EDA-Data_Validation-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Visualization-FF4B4B?style=flat-square" />
+</p>
+
+<p align="center">
+  <strong>🗄️ Databases, Governance & Security</strong><br>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/RBAC-critical?style=flat-square" />
+  <img src="https://img.shields.io/badge/Data_Masking-critical?style=flat-square" />
+</p>
+
+<p align="center">
+  <strong>🛠️ Fundamentals & Version Control</strong><br>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+</p>
 
 ---
 
 ### 🚀 Featured Projects
 
 * **[Multi-Doc-Chat RAG System](https://github.com/Parth6120)**
-  A modular retrieval-augmented generation pipeline designed to seamlessly query and converse with multiple documents simultaneously.
+  A modular Retrieval-Augmented Generation (RAG) pipeline designed to seamlessly ingest, process, and query multiple complex documents concurrently. By integrating advanced LLMs and vector embeddings, this system enables conversational intelligence, allowing users to extract synthesized, fact-based insights from large text corpora with high accuracy and reduced hallucination.
 
 * **[Financial Crew AI: Multi-Agent MLOps System](https://github.com/Parth6120)**
-  Architected the core orchestration routing layer using FastAPI, enforcing strict modularity to process live cryptocurrency time-series data via external REST APIs without system downtime.
+  Designed a production-ready, multi-agent AI architecture that ingests and processes live cryptocurrency time-series data via external REST APIs. Engineered the core orchestration routing layer using FastAPI to enforce strict modularity, enabling the seamless deployment of new agent logic without system downtime. Features an automated MLOps pipeline built with Azure DevOps for continuous continuous data ingestion and scheduled predictive model retraining.
 
 * **[Secure Lens: Enterprise NLP & Privacy Gateway](https://github.com/Parth6120)**
-  Engineered a scalable backend using Python and FastAPI, integrating Microsoft Presidio and spaCy for high-precision Named Entity Recognition (NER) and contextual in-memory data masking.
+  Architected a scalable Data Loss Prevention (DLP) backend using Python and FastAPI. This gateway integrates a hybrid NLP inference pipeline utilizing Microsoft Presidio and spaCy to achieve high-precision Named Entity Recognition (NER) of sensitive PII and PHI. Implemented a server-side Role-Based Access Control (RBAC) engine that applies contextual, in-memory data masking for zero-trust querying, while optimizing latency through targeted DataFrame sampling.
 
 * **[Streaming Voice AI Assistant](https://github.com/Parth6120)**
-  Designed a modular ML pipeline for real-time API orchestration. Integrated Faster Whisper for streaming ASR and Mistral LLM for contextual NLP, leveraging GPU acceleration for deployment-ready latency.
+  Engineered a robust, modular ML pipeline tailored for real-time API orchestration and voice interaction. This assistant integrates Faster Whisper for streaming Automatic Speech Recognition (ASR) and Mistral LLM for rich, contextual natural language processing. By leveraging advanced GPU acceleration strategies and managing isolated virtual environments, the system achieves strict deployment-ready performance and low-latency benchmarks.
+
+* **[Chicago Crash Analysis & Predictive Modeling](https://github.com/Parth6120)**
+  Conducted comprehensive Exploratory Data Analysis (EDA) on large-scale temporal and traffic datasets. Trained and evaluated classical machine learning algorithms (Decision Trees, k-NN, clustering) to uncover underlying accident patterns, delivering actionable statistical insights and standardized reporting to support data-driven policy planning.
 
 ---
 
